@@ -148,7 +148,7 @@ Supports tactical decisions around pricing, suppliers, and fulfillment strategy.
 * **Charts:** Avg Delivery Time by Shipping Method, Avg Profit per Unit by SKU, Total Revenue by Supplier
 * **Detail Table:** SKU attributes (Cost, Price, Profit per Unit, Margin %)
 
-![SKU Breakdown](visuals/Sku_Breakdown2.png)
+![SKU Breakdown](visuals/Sku_Breakdown3.png)
 
 ---
 
